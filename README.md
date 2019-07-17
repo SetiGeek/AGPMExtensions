@@ -15,3 +15,6 @@ GPO must already be under control with AGPM.
 Script that control version status into the archive, and compare it with the production environment.
 A full report is done into a sheet that identify where are the differences: in the GPO name, in the computer or user policy, in the delegation, in the WMI filtering, or into the links list.
 It doens't change anything, it just make an inventory.
+
+## Author
+@SetiGeek (https://github.com/SetiGeek)
